@@ -1,0 +1,182 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 600px;
+}
+
+.nav {
+    position: sticky;
+    background-color: #262b2f;
+    color: white;
+    font-family: "PT Sans";
+    font-size: 2rem;
+    font-weight: 900;
+    padding-top: 20px;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 20px;
+}
+
+.nav a {
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-left: 3%;
+    margin-right: 3%;
+    color: white;
+}
+
+.div0 {
+    position: relative;
+}
+
+.div1 {
+    position: absolute;
+    font-family: 'PT Sans';
+    height: 350px;
+    width: 300px;
+    background-color: #262b2f;
+    margin-left: 8%;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+.div1 i {
+    margin-top: 50px;
+    margin-left: 100px;
+    color: white;
+}
+
+.div1 center {
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.div1 a {
+    color: #262b2f;
+    background-color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.div1 a:hover {
+    opacity: 90%;
+}
+
+.div2 {
+    position: absolute;
+    font-family: 'PT Sans';
+    height: 350px;
+    width: 300px;
+    background-color: #262b2f;
+    margin-left: 8%;
+    margin-left: 500px;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+.div2 i {
+    margin-top: 50px;
+    margin-left: 125px;
+    color: white;
+}
+
+.div2 center {
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.div2 a {
+    color: #262b2f;
+    background-color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.div2 a:hover {
+    opacity: 90%;
+}
+
+.div3 {
+    position: absolute;
+    font-family: 'PT Sans';
+    height: 350px;
+    width: 300px;
+    background-color: #262b2f;
+    margin-left: 8%;
+    margin-left: 900px;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+.div3 i {
+    margin-top: 50px;
+    margin-left: 120px;
+    color: white;
+}
+
+.div3 center {
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.div3 a {
+    color: #262b2f;
+    background-color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.div3 a:hover {
+    opacity: 90%;
+}
+
+.info {
+    background-color: #262b2f;
+    height: 400px;
+    font-family: 'PT Sans';
+    font-size: 2rem;
+    padding-top: 30px;
+    color: white;
+}
+
+.info p {
+    font-size: 1.5rem;
+}
+
+marquee {
+    font-family: 'PT Sans';
+    font-size: 2rem;
+}
+
+footer {
+    font-family: 'PT Sans';
+    font-size: 1.8rem;
+    background-color: #262b2f;
+    color: white;
+}
+
+footer i {
+    color: white;
+}

@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 600px;
+}
+
+.nav {
+    position: sticky;
+    background-color: #262b2f;
+    color: white;
+    font-family: "PT Sans";
+    font-size: 2rem;
+    font-weight: 900;
+    padding-top: 20px;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 20px;
+}
+
+.nav a {
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-left: 3%;
+    margin-right: 3%;
+    color: white;
+}
+
+.div1 {
+    margin-top: 50px;
+    color: #262b2f;
+    font-family: 'PT Sans';
+}
+
+.div1 a {
+    text-decoration: none;
+    color: #262b2f;
+}
+
+span {
+    font-size: 2rem;
+}
+
+.div1 i {
+    color: #262b2f;
+}
