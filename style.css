@@ -27,6 +27,15 @@ body {
     margin-left: 3%;
     margin-right: 3%;
     color: white;
+    transition: 0.5s;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+}
+
+.nav a:hover{
+    background-color: white;
+    color: #262b2f;
 }
 
 .div0 {
@@ -66,10 +75,11 @@ body {
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
+    transition: 0.5s;
 }
 
 .div1 a:hover {
-    opacity: 90%;
+    opacity: 70%;
 }
 
 .div2 {
@@ -106,10 +116,11 @@ body {
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
+    transition: 0.5s;
 }
 
 .div2 a:hover {
-    opacity: 90%;
+    opacity: 70%;
 }
 
 .div3 {
@@ -146,10 +157,11 @@ body {
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
+    transition: 0.5s;
 }
 
 .div3 a:hover {
-    opacity: 90%;
+    opacity: 70%;
 }
 
 .info {
@@ -179,4 +191,9 @@ footer {
 
 footer i {
     color: white;
+}
+
+.sale {
+    text-decoration: none;
+    color: #262b2f;
 }
